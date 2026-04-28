@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I'm Shreya Kaushik 👋<br>I'm a passionate Full-Stack Developer and engineering student who loves building things that are both functional and meaningful.<br>🔧 From crafting responsive frontends to designing robust backends, I enjoy working across the entire stack and occasionally diving into the hardware side of things too.<br>📚 Currently sharpening my skills through coursework, personal projects, and a healthy curiosity for how technology works at every level.<br>🌱 Always learning. Always building.
 
 
