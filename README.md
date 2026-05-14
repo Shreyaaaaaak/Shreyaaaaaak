@@ -9,9 +9,6 @@ Hi, I'm Shreya Kaushik 👋<br>I'm a passionate Full-Stack Developer and enginee
 ![](https://streak-stats.demolab.com/?user=Shreyaaaaaak&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shreyaaaaaak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shreyaaaaaak&theme=gotham&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 [![](https://komarev.com/ghpvc/?username=Shreyaaaaaak&icon=7&color=8)](https://visitcount.itsvg.in)
 
