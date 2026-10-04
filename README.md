@@ -1,10 +1,22 @@
-# About Me:
-Hi, I'm Shreya Kaushik 👋<br>I'm a passionate Full-Stack Developer and engineering student who loves building things that are both functional and meaningful.<br>🔧 From crafting responsive frontends to designing robust backends, I enjoy working across the entire stack and occasionally diving into the hardware side of things too.<br>📚 Currently sharpening my skills through coursework, personal projects, and a healthy curiosity for how technology works at every level.<br>🌱 Always learning. Always building.
+# Hi, I'm Shreya 👋
 
+B.Tech Electronics & Computer Science @ KIIT University '27  
+Building at the intersection of software engineering and design.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+## What I work on
+- Full-stack web apps (Python · FastAPI · React · JavaScript)
+- ML & computer vision (TensorFlow · MediaPipe · OpenCV)
+- UI/UX design with a focus on clean, functional interfaces
 
+## Projects
+- 🔍 **GitHub Profile Analyzer** — FastAPI + Chart.js dev insights tool
+- 🤟 **ASL Sign Language Interpreter** — real-time 34-sign recognition with MediaPipe + Keras
+- ✅ **Habit Tracker** — React + Vite streak tracker with heatmap dashboard
+- ♟️ **JavaScript Chess Game** — deployed multiplayer chess on Railway
 
+## Stack
+`Python` `FastAPI` `React` `JavaScript` `C/C++` `TensorFlow` `OpenCV` `HTML/CSS`
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shreyaaaaaak)
