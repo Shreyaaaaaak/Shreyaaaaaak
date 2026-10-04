@@ -1,4 +1,4 @@
-# Hi, I'm Shreya 👋
+# Hi, I'm Shreya 
 
 B.Tech Electronics & Computer Science @ KIIT University '27  
 Building at the intersection of software engineering and design.
@@ -8,11 +8,11 @@ Building at the intersection of software engineering and design.
 - ML & computer vision (TensorFlow · MediaPipe · OpenCV)
 - UI/UX design with a focus on clean, functional interfaces
 
-## Projects
-- 🔍 **GitHub Profile Analyzer** — FastAPI + Chart.js dev insights tool
-- 🤟 **ASL Sign Language Interpreter** — real-time 34-sign recognition with MediaPipe + Keras
-- ✅ **Habit Tracker** — React + Vite streak tracker with heatmap dashboard
-- ♟️ **JavaScript Chess Game** — deployed multiplayer chess on Railway
+## Some of my Projects
+-  **GitHub Profile Analyzer** — FastAPI + Chart.js dev insights tool
+-  **ASL Sign Language Interpreter** — real-time 34-sign recognition with MediaPipe + Keras
+-  **Habit Tracker** — React + Vite streak tracker with heatmap dashboard
+-  **JavaScript Chess Game** — deployed multiplayer chess on Railway
 
 ## Stack
 `Python` `FastAPI` `React` `JavaScript` `C/C++` `TensorFlow` `OpenCV` `HTML/CSS`
