@@ -18,5 +18,5 @@ Building at the intersection of software engineering and design.
 `Python` `FastAPI` `React` `JavaScript` `C/C++` `TensorFlow` `OpenCV` `HTML/CSS`
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/shreyakaushik2308)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shreyaaaaaak)
